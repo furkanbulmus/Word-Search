@@ -1,0 +1,15 @@
+C:\Users\FURKAN\OneDrive\Masaüstü\Word Search\bin\Debug\net7.0\Word Search.exe
+C:\Users\FURKAN\OneDrive\Masaüstü\Word Search\bin\Debug\net7.0\Word Search.deps.json
+C:\Users\FURKAN\OneDrive\Masaüstü\Word Search\bin\Debug\net7.0\Word Search.runtimeconfig.json
+C:\Users\FURKAN\OneDrive\Masaüstü\Word Search\bin\Debug\net7.0\Word Search.dll
+C:\Users\FURKAN\OneDrive\Masaüstü\Word Search\bin\Debug\net7.0\Word Search.pdb
+C:\Users\FURKAN\OneDrive\Masaüstü\Word Search\obj\Debug\net7.0\Word Search.csproj.AssemblyReference.cache
+C:\Users\FURKAN\OneDrive\Masaüstü\Word Search\obj\Debug\net7.0\Word Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FURKAN\OneDrive\Masaüstü\Word Search\obj\Debug\net7.0\Word Search.AssemblyInfoInputs.cache
+C:\Users\FURKAN\OneDrive\Masaüstü\Word Search\obj\Debug\net7.0\Word Search.AssemblyInfo.cs
+C:\Users\FURKAN\OneDrive\Masaüstü\Word Search\obj\Debug\net7.0\Word Search.csproj.CoreCompileInputs.cache
+C:\Users\FURKAN\OneDrive\Masaüstü\Word Search\obj\Debug\net7.0\Word Search.dll
+C:\Users\FURKAN\OneDrive\Masaüstü\Word Search\obj\Debug\net7.0\refint\Word Search.dll
+C:\Users\FURKAN\OneDrive\Masaüstü\Word Search\obj\Debug\net7.0\Word Search.pdb
+C:\Users\FURKAN\OneDrive\Masaüstü\Word Search\obj\Debug\net7.0\Word Search.genruntimeconfig.cache
+C:\Users\FURKAN\OneDrive\Masaüstü\Word Search\obj\Debug\net7.0\ref\Word Search.dll
